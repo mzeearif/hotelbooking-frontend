@@ -1,0 +1,207 @@
+[
+    {
+        
+        "pk": 1,
+       
+          "name": "Software Development"
+      },
+      {
+        
+        "pk": 2,
+       
+          "name": "Cloud Service"
+      },
+      {
+        
+        "pk": 3,
+       
+          "name": "Social Media"
+      },
+      {
+        
+        "pk": 4,
+       
+          "name": "E-Commerce"
+      },
+      {
+        
+        "pk": 5,
+       
+          "name": "Online Streaming"
+      },
+      {
+        
+        "pk": 6,
+       
+          "name": "Telecommunication Equipment"
+      },
+      {
+        
+        "pk": 7,
+       
+          "name": "Networking Equipment"
+      },
+      {
+        
+        "pk": 8,
+       
+          "name": "Mobile Phones"
+      },
+      {
+        
+        "pk": 9,
+       
+          "name": "Personal Computers"
+      },
+      {
+        
+        "pk": 10,
+       
+          "name": "Electronic Equipment"
+      },
+      {
+        
+        "pk": 11,
+       
+          "name": "Semiconductors"
+      },
+      {
+        
+        "pk": 12,
+        
+          "name": "Retail Banking" 
+      },
+      {
+        
+        "pk": 13,
+        
+          "name": "Commercial Banking" 
+      },
+      {
+        
+        "pk": 14,
+        
+          "name": "Investment Banking" 
+      },
+      {
+        
+        "pk": 15,
+        
+          "name": "Asset Management" 
+      },
+      {
+        
+        "pk": 16,
+        
+          "name": "Fund Management" 
+      },
+      {
+        
+        "pk": 17,
+        
+          "name": "Venture Capital" 
+         
+      },
+      {
+        
+        "pk": 18,
+        
+          "name": "Fintech" 
+      },
+      {
+        
+        "pk": 19,
+       
+          "name": "Healthcare Equipment" 
+      },
+      {
+        
+        "pk": 20,
+       
+          "name": "Healthcare Technology" 
+      },
+      {
+        
+        "pk": 21,
+       
+          "name": "Biotechnology" 
+      },
+      {
+        
+        "pk": 22,
+       
+          "name": "Pharmaceuticals" 
+      },
+      {
+        
+        "pk": 23,
+       
+          "name": "Life Sciences Tools & Services" 
+      },
+      {
+        
+        "pk": 24,
+       
+          "name": "Passenger Cars" 
+      },
+      {
+        
+        "pk": 25,
+       
+          "name": "Automotive Engines" 
+      },
+      {
+        
+        "pk": 26,
+       
+          "name": "Automotive Spare Parts" 
+      },
+      {
+        
+        "pk": 27,
+       
+          "name": "Industrial Machinery" 
+      },
+      {
+        
+        "pk": 28,
+       
+          "name": "Construction Machinery" 
+      },
+      {
+        
+        "pk": 29,
+       
+          "name": "Electrical Components & Equipment" 
+      },
+      {
+        
+        "pk": 30,
+       
+          "name": "Construction & Engineering"
+      },
+      {
+        
+        "pk": 31,
+        
+          "name": "Human Resource & Employment Services" 
+      },
+      {
+        
+        "pk": 32,
+        
+          "name": "Legal Services" 
+      },
+      {
+        
+        "pk": 33,
+        
+          "name": "Tax & Accounting Services" 
+      },
+      {
+        
+        "pk": 34,
+        
+          "name": "Business Consulting" 
+      }
+]

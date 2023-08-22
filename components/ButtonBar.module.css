@@ -1,0 +1,13 @@
+.buttonBar{
+    position: absolute;
+    top: 394px;
+    left: 60px;
+}
+.buttonBar span{
+    
+    padding: 10px;
+    background: none;}
+    
+    .buttonBar .border_right{
+        border-right:1px solid #ccc !important;
+    }

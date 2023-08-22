@@ -1,0 +1,32 @@
+[
+  {
+    "pk": 25,
+
+    "name": "Choose Industry"
+  },
+  {
+    "pk": 26,
+
+    "name": "Information Technology"
+  },
+  {
+    "pk": 27,
+
+    "name": "Financial Services"
+  },
+  {
+    "pk": 28,
+
+    "name": "Healthcare"
+  },
+  {
+    "pk": 29,
+
+    "name": "Industrials"
+  },
+  {
+    "pk": 30,
+
+    "name": "Professional Services"
+  }
+]

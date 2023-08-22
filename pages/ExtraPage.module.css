@@ -1,0 +1,9 @@
+.extraCheck{
+    display: flex;
+    justify-content: space-between;
+}
+.extraCheck{
+    list-style: none;
+    border-bottom:1px solid #ddd;
+    padding-left: 0!important;
+}

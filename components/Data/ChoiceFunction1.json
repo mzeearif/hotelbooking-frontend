@@ -1,0 +1,211 @@
+[
+    
+       { "pk": 1,
+       
+          "name": "General Business Management"  
+      },
+      {
+        
+        "pk": 2,
+       
+          "name": "Finance"  
+      },
+      {
+        
+        "pk": 3,
+       
+          "name": "Accounting" 
+      },
+      {
+        
+        "pk": 4,
+       
+          "name": "Audit"  
+      },
+      {
+        
+        "pk": 5,
+       
+          "name": "Tax"  
+      },
+      {
+        
+        "pk": 6,
+       
+          "name": "HR"  
+      },
+      {
+        
+        "pk": 7,
+       
+          "name": "Legal"  
+      },
+      {
+        
+        "pk": 8,
+       
+          "name": "Compliance"  
+      },
+      {
+        
+        "pk": 9,
+       
+          "name": "IT"  
+      },
+      {
+        
+        "pk": 10,
+       
+          "name": "Communications" 
+      },
+      {
+        
+        "pk": 11,
+       
+          "name": "Research"  
+      },
+      {
+        
+        "pk": 12,
+       
+          "name": "Analysis"  
+      },
+      {
+        
+        "pk": 13,
+       
+          "name": "Product Management"  
+      },
+      {
+        
+        "pk": 14,
+       
+          "name": "Project Management"  
+      },
+      {
+        
+        "pk": 15,
+       
+          "name": "Development & Engineering"  
+      },
+      {
+        
+        "pk": 16,
+       
+          "name": "Procurement"  
+      },
+      {
+        
+        "pk": 17,
+       
+          "name": "Logistics" 
+      },
+      {
+        
+        "pk": 18,
+       
+          "name": "Production & Manufacturing"  
+      },
+      {
+        
+        "pk": 19,
+       
+          "name": "Quality Assurance & Control"  
+      },
+      {
+        
+        "pk": 20,
+       
+          "name": "Business Operations" 
+      },
+      {
+        
+        "pk": 21,
+       
+          "name": "Sales & Client Relationship"  
+      },
+      {
+        
+        "pk": 22,
+       
+          "name": "Marketing"  
+      },
+      {
+        
+        "pk": 23,
+       
+          "name": "Banking"  
+      },
+      {
+        
+        "pk": 24,
+       
+          "name": "Loan Processing"  
+      },
+      {
+        
+        "pk": 25,
+       
+          "name": "Credit Analysis" 
+      },
+      {
+        
+        "pk": 26,
+       
+          "name": "Financial Advisory" 
+      },
+      {
+        
+        "pk": 27,
+       
+          "name": "Investment Banking" 
+      },
+      {
+        
+        "pk": 28,
+       
+          "name": "Underwriting" 
+      },
+      {
+        
+        "pk": 29,
+       
+          "name": "Asset Management"  
+      },
+      {
+        
+        "pk": 30,
+       
+          "name": "Fund Management"  
+      },
+      {
+        
+        "pk": 31,
+       
+          "name": "Consultant"  
+      },
+      {
+        
+        "pk": 32,
+       
+          "name": "Audit" 
+      },
+      {
+        
+        "pk": 33,
+       
+          "name": "Tax Advisory" 
+      },
+      {
+        
+        "pk": 34,
+        "name": "Lawyer"
+        
+      },
+      {
+        
+        "pk": 35,
+       
+          "name": "HR Consulting"  
+      }
+]
